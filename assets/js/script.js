@@ -13,6 +13,10 @@
  - Persist events between refreshes of a page
         events should stay in the document via local storage.
 */
+// make sure the html and css load first
+$(document).ready(function () {
+    var currentDay = moment().format("dddd, Do MMMM, YYYY")
+    $("#currentDay").text(currentDay);
 
-var currentDay = moment().format("dddd, Do MMMM, YYYY")
-$("#currentDay").text(currentDay);
+
+})
