@@ -19,11 +19,10 @@ To use this website:
 - Upon reloading the page, the new text (or blank space if the text was deleted) will now be there instead.
 
 
-(Walkthrough images below)
+(screenshot images below)
 
 ![StartScreen](./assets/images/start-screen.jpg)<br>
 // need to get more images through the day to show color changes
-
 
 
 Link to active website: https://leanne-annable.github.io/WorkDayScheduler/
@@ -31,9 +30,7 @@ Link to active website: https://leanne-annable.github.io/WorkDayScheduler/
 
 ## Credits
 
-I used the information from our previous lesson in class, and also the following pages from w3schools for information regarding text areas and DOM navigation<br>
-https://www.w3schools.com/tags/tag_textarea.asp<br>
-https://www.w3schools.com/js/js_htmldom_navigation.asp<br>
+I used the information from our previous lesson in class, and also w3schools for information regarding text areas and DOM navigation<br>
 
 
 ## License
