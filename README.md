@@ -22,7 +22,10 @@ To use this website:
 (screenshot images below)
 
 ![StartScreen](./assets/images/start-screen.jpg)<br>
-// need to get more images through the day to show color changes
+![ColouredSections](./assets/images/coloured-time-sections.jpg)<br>
+![textBoxes](./assets/images/text-boxes.jpg)<br>
+![saveBtn](./assets/images/save-button.jpg)<br>
+
 
 
 Link to active website: https://leanne-annable.github.io/WorkDayScheduler/
